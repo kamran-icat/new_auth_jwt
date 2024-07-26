@@ -1,5 +1,1 @@
-POST https://localhost:3000/login
-Content-Type: application/json
-{
-    "username": "kamran"
-}
+POST http://localhost:5000/posts
